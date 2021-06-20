@@ -44,7 +44,7 @@
 
 ## Week 1 Databases (SQL + NoSQL) 
 - Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197
-- EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2
+- NoSQL https://www.youtube.com/watch?v=E-1xI85Zog8
 
 ## Week 2 Hadoop & Map Reduce + Spark
 - Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
