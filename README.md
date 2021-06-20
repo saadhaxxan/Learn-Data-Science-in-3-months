@@ -30,11 +30,12 @@
 - [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 ## Week 1-2 - Algorithms & Machine Learning
-- Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/
+- Sentdex https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 
 ## Week 3 - Deep Learning
-- Part 1 and 2 of DL Book https://www.deeplearningbook.org/ 
-- Siraj Raval https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3 
+- Read Part 1 and 2 of DL Book https://www.deeplearningbook.org/ 
+- Intro to Deep Learning  https://www.youtube.com/watch?v=VyWAvY2CF9c
+- Tensorflow For Deep Learning https://www.youtube.com/watch?v=qFJeN9V1ZsI 
 
 ## Week 4 - Kaggle Project #2 
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions). Make sure to add great documentation to your github repository! Github is the new resume. 
