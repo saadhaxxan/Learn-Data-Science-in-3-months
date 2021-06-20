@@ -50,8 +50,8 @@
 - Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
 - Spark Workshop https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf 
 
-## Week 3 Data Storytelling
-- Edx https://www.edx.org/course/analytics-storytelling-impact-1
+## Week 3 Big Data
+- Edx https://www.edx.org/course/big-data-analytics-using-spark
 
 ## Week 4 Kaggle Project #3
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
