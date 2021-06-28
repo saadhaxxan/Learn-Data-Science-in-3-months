@@ -9,6 +9,7 @@
 
 ## Week 1 - Learn Python
 - Youtube (Freecodecamp) https://www.youtube.com/watch?v=LHBE6Q9XlzI
+- Youtube (Data Analysis) https://www.youtube.com/watch?v=GPVsHOlRBBI
 
 ## Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
