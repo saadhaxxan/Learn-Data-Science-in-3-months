@@ -12,7 +12,7 @@
 - Youtube (Data Analysis) https://www.youtube.com/watch?v=GPVsHOlRBBI
 
 ## Week 2 - Statistics & Probability
-- KhanAcademy https://www.khanacademy.org/math/statistics-probability
+- Krish Naik https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
 
 ## Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
 - EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
