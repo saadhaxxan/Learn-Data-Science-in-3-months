@@ -31,7 +31,7 @@
 - [Linear Algebra](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 ## Week 1-2 - Algorithms & Machine Learning
-- Sentdex https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+- Krish Naik https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
 
 ## Week 3 - Deep Learning
 - Read Part 1 and 2 of DL Book https://www.deeplearningbook.org/ 
