@@ -1,4 +1,4 @@
-# Learn_Data_Science_in_3_Months
+# Learn Data Science in 3 Months
 
 ### Accelerated Learning Techniques
 - Watch videos at 2x or 3x speed using a browser extension
